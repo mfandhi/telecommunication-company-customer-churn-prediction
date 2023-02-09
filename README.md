@@ -1,4 +1,4 @@
-# telecommunication-company-customer-churn-prediction
+# Telecommunication Company Customer Churn Prediction
 ---
 
 The aim of the Telecommunication Company Customer Churn Prediction project is to predict which customers are likely to churn (leave the company) based on past behavior and demographic data using artificial neural network algorithms.
