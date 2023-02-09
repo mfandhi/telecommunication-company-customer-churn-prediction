@@ -1,7 +1,7 @@
 # telecommunication-company-customer-churn-prediction
 ---
 
-The aim of this project is to predict the churn rate of telco customer based on their churn status and their behavior towards the telco facilities using Artificial Neural Network.
+The aim of the Telecommunication Company Customer Churn Prediction project is to predict which customers are likely to churn (leave the company) based on past behavior and demographic data using artificial neural network algorithms.
 
 You can also access the Model Deployment for this project!
 
